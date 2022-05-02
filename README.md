@@ -198,6 +198,7 @@ Example:
 3) bang: bar
 4) bang: baz
 ```
-
+### EXIT
+Exits the application
 
 
