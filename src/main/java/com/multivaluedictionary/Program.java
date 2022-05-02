@@ -8,8 +8,7 @@ import java.io.InputStreamReader;
 public class Program {
 
 	public static void main(String[] args) throws IOException{
-	//	System.out.println("Running program");
-		Functionalities.AddDefaultMembers();
+		//Functionalities.AddDefaultMembers();
 
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		while(true) {
