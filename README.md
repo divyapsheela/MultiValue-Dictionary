@@ -2,7 +2,7 @@
 
 The Multi-Value Dictionary app is a command line application that stores a multivalue dictionary in memory.  All keys and members are strings.
 
-It should support the following commands.
+It support the following commands.
 
 ### KEYS
 Returns all the keys in the dictionary.  Order is not guaranteed.
