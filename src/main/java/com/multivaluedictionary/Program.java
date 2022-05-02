@@ -12,7 +12,6 @@ public class Program {
 		Functionalities.AddDefaultMembers();
 
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-		int count = 20;
 		while(true) {
 			System.out.print("> ");
 			String command = reader.readLine();
